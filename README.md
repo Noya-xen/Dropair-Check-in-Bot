@@ -4,6 +4,9 @@ untuk menukan token, F12 pada halaman airdrop, selanjutnya ke menu aplication, k
 
 ![Screenshot 2024-11-09 132710](https://github.com/user-attachments/assets/50e68d98-4b8c-44b4-b06e-e4cc35b1a3a0)
 
+git clone https://github.com/Noya-xen/Dropair-Check-in-Bot
+
+cd Dropair-Check-in-Bot
 
 npm install puppeteer
 
