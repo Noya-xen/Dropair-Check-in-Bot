@@ -1,0 +1,15 @@
+{
+  "name": "dropair-checkin-bot",
+  "version": "1.0.0",
+  "description": "A simple bot to perform daily check-ins on dropair.io",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^19.0.0",
+    "puppeteer": "^19.0.0"
+  },
+  "author": "NOLIYADI",
+  "license": "MIT"
+}
